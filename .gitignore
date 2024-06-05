@@ -1,0 +1,8 @@
+.vscode/
+
+# Keil auto-generated files
+Listing/**
+Output/**
+# Project/RVMDK（uv4）/...
+Project/RVMDK*uv4*/DebugConfig/
+Project/RVMDK*uv4*/*.uvguix.*
